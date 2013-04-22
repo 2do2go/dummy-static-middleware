@@ -1,0 +1,15 @@
+{
+  "name": "dummy-static-middleware",
+  "version": "0.1.0",
+  "description": "Dummy static middleware for expressjs",
+  "author": "Oleg Korobenko <oleg.korobenko@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/2do2go/dummy-static-middleware"
+  },
+  "keywords": [
+    "express", "dummy", "static"
+  ],
+  "main": "./lib/dummyStatic"
+}
+
